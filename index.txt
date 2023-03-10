@@ -1,0 +1,156 @@
+EDUCATE - Education landing page
+
+alt = EDUCATE logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="close-outline"></ion-icon>
+
+alt = EDUCATE logo
+
+Inicio
+Acerca de
+Servicio
+Blog
+Contacto
+
+Comenzar
+
+
+
+# INICIO
+
+alt = A 
+
+Comienza tu educación futura
+
+- Redefina de manera creíble el enlace total distintivo frente a los datos multifunción. Impacto fosforescente
+    orientado a objetivos
+    estratégico
+
+Descubre más
+
+
+
+# ACERCA DE
+
+alt = Eduland students
+alt = Vector line art
+
+<ion-icon name="play"></ion-icon>
+
+¡Ayudamos a crear posibilidades y éxito en su carrera!
+Administre continuamente capital humano centrado en procesos en lugar de metodologías de última generación.
+Oferta distintiva
+métodos precisos de empoderamiento antes.
+Comienza Hoy
+
+
+
+# SERVICIOS
+
+alt = Vector line art
+
+Tenemos la mayoría de los departamentos populares
+
+alt = Inteligencia Artificial
+Inteligencia Artificial
+
+Entregables sinérgeticos de tareas asertivamente paralelos después de alta calidad,
+Aprende más
+<ion-icon name="arrow-forward"></ion-icon>
+
+alt = Ingeniería Civil
+Ingeniería Civil
+
+alt = Estudios de negocios
+Estudios de negocios
+
+Ver todo el departamento
+
+
+
+# Maestros
+
+alt = Vector line art
+
+Presentamos nuestros famosos maestros
+
+Ver todos los maestros
+
+alt = Shaapir Prio
+Shaapir Prio
+
+Assistant Director
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+alt = Sellina
+Sellina
+
+Director
+
+alt = John Smith
+John Smith
+
+Assistant Director
+
+
+
+# CTA
+
+Crea una cuenta gratis y regístrate
+
+alt = Vector arrow art
+
+Registrate Ahora
+
+
+
+# FOOTER
+
+alt = EDUCATE logo
+
+Escale profesionalmente el capital humano multifuncional y la tecnología extensiva.
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Servicios
+
+Diseño
+Desarrollo
+Marketing
+Redacción de contenido
+
+
+Compañía
+
+Acerca de
+Términos
+política de privacidad
+Carreras
+
+
+Información del trabajo
+
+Seleccionar
+Servicios
+Pago
+
+Contact
+
+Call : 546 3876 387
+Email : example@gmail.com
+Address : MIRAFLORES, LIMA-PERÚ
+
+&copy; 2022 @bercode. All right reserved
+
+# GO TO TOP
+
+<ion-icon name="arrow-up"></ion-icon>
